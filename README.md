@@ -1,4 +1,4 @@
-# Motorola One Fusion+
+# Motorola One Hyper
 
 ## Device specifications
 
